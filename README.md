@@ -1,5 +1,7 @@
 # vue-jobby-search
 
+This is a very simple Vuejs application using pagination and vuex
+
 ## Project setup
 ```
 npm install
